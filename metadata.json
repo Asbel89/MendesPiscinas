@@ -1,0 +1,6 @@
+{
+  "name": "Mendes Piscinas",
+  "description": "Serviço profissional de limpeza e manutenção de piscinas. Deixamos sua piscina limpa e cristalina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
